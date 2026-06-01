@@ -1,0 +1,3 @@
+risk_label,avg_credit_amount,avg_duration_month,count
+Good,2985.5,19.2,700
+Bad,3938.1,24.9,300
